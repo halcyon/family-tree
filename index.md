@@ -1,1 +1,1 @@
-![Mukhi](https://raw.githubusercontent.com/halcyon/mohnani/master/mukhi.svg?sanitize=true)
+![Family Tree](https://raw.githubusercontent.com/halcyon/family-tree/master/family-tree.svg?sanitize=true)
